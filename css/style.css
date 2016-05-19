@@ -1,0 +1,35 @@
+.remove-icon {
+	color:#EB1414
+}
+
+.success-label {
+	margin-bottom:0;
+	padding-top:7%
+}
+
+.my-tags {
+	top:0!important
+}
+
+.img-error-msg {
+	position:absolute;
+	padding-left:70%;
+	padding-top:2%
+}
+
+.alert-warning {
+	margin-top:10px
+}
+
+.word-break {
+	word-wrap:break-word
+}
+
+.growRow {
+	margin-bottom:33%
+}
+
+.footer {
+	color:#fff;
+	padding:17px
+}
